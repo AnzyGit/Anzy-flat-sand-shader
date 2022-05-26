@@ -641,8 +641,8 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "x": 1.0,
-        "y": 1.0,
+        "x": 5.0,
+        "y": 5.0,
         "z": 0.0,
         "w": 0.0
     }
@@ -1440,7 +1440,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "5c6c649f5d054414ba780e1db1e3439c",
     "m_Id": 0,
-    "m_DisplayName": "Glitter Offset",
+    "m_DisplayName": "Sand Grains Dispersion",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1673,10 +1673,10 @@
     "m_Guid": {
         "m_GuidSerialized": "aa9ecc03-d83c-4f37-ac2d-ae71b249f8cf"
     },
-    "m_Name": "Fresnel Power",
+    "m_Name": "Emission Reduction",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Fresnel Power",
-    "m_DefaultReferenceName": "_Fresnel_Power",
+    "m_RefNameGeneratedByDisplayName": "Emission Reduction",
+    "m_DefaultReferenceName": "_Emission_Reduction",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1685,7 +1685,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.9900000095367432,
+    "m_Value": 0.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1873,10 +1873,10 @@
     "m_Guid": {
         "m_GuidSerialized": "3198a638-0c80-40a7-8576-d799d04514ac"
     },
-    "m_Name": "Fresnel Color",
+    "m_Name": "Emission Color",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Fresnel Color",
-    "m_DefaultReferenceName": "_Fresnel_Color",
+    "m_RefNameGeneratedByDisplayName": "Emission Color",
+    "m_DefaultReferenceName": "_Emission_Color",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1900,7 +1900,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "82c1715c5e1b41c39c8eb08e195f7c96",
     "m_Id": 0,
-    "m_DisplayName": "Glitter Color",
+    "m_DisplayName": "Sand Grains Color",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2055,10 +2055,10 @@
     "m_Guid": {
         "m_GuidSerialized": "95246c07-c511-48eb-8f99-f343ab3912f8"
     },
-    "m_Name": "Glitter Color",
+    "m_Name": "Sand Grains Color",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Glitter Color",
-    "m_DefaultReferenceName": "_Glitter_Color",
+    "m_RefNameGeneratedByDisplayName": "Sand Grains Color",
+    "m_DefaultReferenceName": "_Sand_Grains_Color",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2440,7 +2440,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "a72253ca8d2b4f46919dc0e1d1f5643a",
     "m_Id": 0,
-    "m_DisplayName": "Fresnel Color",
+    "m_DisplayName": "Emission Color",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2532,7 +2532,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "b29a1fbcecab41c2bfffa33268827ac2",
     "m_Id": 0,
-    "m_DisplayName": "Fresnel Power",
+    "m_DisplayName": "Emission Reduction",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2887,10 +2887,10 @@
     "m_Guid": {
         "m_GuidSerialized": "7554cdbe-b82d-4be0-8cc1-da5e7c2912c5"
     },
-    "m_Name": "Glitter Offset",
+    "m_Name": "Sand Grains Dispersion",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Glitter Offset",
-    "m_DefaultReferenceName": "_Glitter_Offset",
+    "m_RefNameGeneratedByDisplayName": "Sand Grains Dispersion",
+    "m_DefaultReferenceName": "_Sand_Grains_Dispersion",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
