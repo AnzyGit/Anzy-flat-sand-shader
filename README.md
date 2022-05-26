@@ -27,8 +27,7 @@ Download the [.unitypackage](https://github.com/AnzyGit/Unity-sand-shader/raw/ma
 
 ## Contact
 
-- https://twitter.com/\_\_Anzy__
-- contact.anzy@gmail.com
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/__Anzy____.svg?style=social&label=Follow%20%40__Anzy__)](https://twitter.com/__Anzy__)
 
 ## Thanks
 
