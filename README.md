@@ -11,6 +11,8 @@ FIXME
 
 ## How to use
 
+Download the [.unitypackage](https://github.com/AnzyGit/Unity-sand-shader/raw/main/Release/Anzy%20sand%20shader.unitypackage), or clone this repository.
+
 ### Using a mesh
 
 1. Import your mesh in your mesh
