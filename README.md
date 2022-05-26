@@ -25,6 +25,11 @@ Download the [.unitypackage](https://github.com/AnzyGit/Unity-sand-shader/raw/ma
 5. Drag one of the material presets in `Stylized Sand/Materials` into the custom material slot.
 6. In material's inspector, set the tilling of the Texture and Normal map to your convenience (above 200 to have nice results)
 
+## Contact
+
+- https://twitter.com/\_\_Anzy__
+- contact.anzy@gmail.com
+
 ## Thanks
 
 Inspired by [Daniel Shervheim](https://github.com/danielshervheim/unity-stylized-sand) and [Daniel Ilett](https://www.youtube.com/watch?v=jAOqmx764dA) shaders
