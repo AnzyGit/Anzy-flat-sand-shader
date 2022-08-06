@@ -99,9 +99,12 @@ Material:
     - _DstBlend: 0
     - _Emission_Reduction: 1.93
     - _EnvironmentReflections: 1
+    - _Fresnel_Power_Reduction: 2.2
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Grains_Dispersion: 100
+    - _Grains_Size_Reduction: 10000
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -121,6 +124,8 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Emission_Color: {r: 1, g: 0.44393066, b: 0.09826589, a: 1}
+    - _Fresnel_Power_Color: {r: 0.68, g: 0.42499998, b: 0.06799999, a: 1}
+    - _Main_Color: {r: 0.773, g: 0.49452782, b: 0.17764586, a: 0}
     - _Noise_Scale: {r: 5, g: 5, b: 0, a: 0}
     - _Sand_Grains_Color: {r: 0.0007314645, g: 0.0004710478, b: 0.00006893383, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

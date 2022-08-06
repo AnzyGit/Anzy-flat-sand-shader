@@ -99,9 +99,12 @@ Material:
     - _DstBlend: 0
     - _Emission_Reduction: 0
     - _EnvironmentReflections: 1
+    - _Fresnel_Power_Reduction: 2.2
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Grains_Dispersion: 5
+    - _Grains_Size_Reduction: 50000
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -121,8 +124,10 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Emission_Color: {r: 0.6784314, g: 0.34175923, b: 0.06666666, a: 1}
+    - _Fresnel_Power_Color: {r: 0.68, g: 0.42499998, b: 0.06799999, a: 1}
+    - _Main_Color: {r: 0.773, g: 0.49452782, b: 0.17764586, a: 0}
     - _Noise_Scale: {r: 10.43, g: 9.49, b: 0, a: 0}
-    - _Sand_Grains_Color: {r: 1.7207954, g: 0.532857, b: 0.1621692, a: 0}
+    - _Sand_Grains_Color: {r: 0.8603977, g: 0.270282, b: 0.0810846, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2941520024666247856
